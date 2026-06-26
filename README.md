@@ -1,16 +1,68 @@
-## Hi there 👋
+# Hi 👋, I'm Satvik Cherukuri
 
-<!--
-**satvik344/satvik344** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Artificial Intelligence & Machine Learning Undergraduate
 
-Here are some ideas to get you started:
+I am currently pursuing my B.Tech in Artificial Intelligence & Machine Learning at Vignan University.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy building AI-powered applications, solving real-world problems, and continuously improving my skills in Machine Learning, Deep Learning, and Software Development.
+
+---
+
+## 🔬 Current Interests
+
+- Artificial Intelligence
+- Machine Learning
+- Deep Learning
+- Computer Vision
+- NLP
+- AI Research
+
+---
+
+## 🚀 Current Projects
+
+### MindCheck
+AI-powered stress analysis platform
+
+https://mindcheckin.netlify.app/
+
+### Software Musician
+
+AI-powered music transcription platform
+
+https://softwaremusician.netlify.app/
+
+---
+
+## 💻 Programming Languages
+
+- Python
+- Java
+- C++
+- JavaScript
+
+---
+
+## 🛠 Technologies
+
+- NumPy
+- Pandas
+- Matplotlib
+- TensorFlow
+- TensorFlow.js
+- PyTorch
+- Firebase
+- Git
+- GitHub
+
+---
+
+## 📫 Contact
+
+Email
+
+satvik344705@gmail.com
+
+LinkedIn
+
+https://www.linkedin.com/in/satvik-cherukuri-64299b273
