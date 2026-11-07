@@ -1,68 +1,17 @@
-# Hi 👋, I'm Satvik Cherukuri
+# Hi, I'm Satvik Cherukuri 👋
 
-## Artificial Intelligence & Machine Learning Undergraduate
+AI/ML undergraduate at Vignan University building practical machine-learning systems, MLOps pipelines, and AI-powered applications.
 
-I am currently pursuing my B.Tech in Artificial Intelligence & Machine Learning at Vignan University.
+**Portfolio:** [satvikcherukuri.netlify.app](https://satvikcherukuri.netlify.app)  
+**LinkedIn:** [Connect with me](https://www.linkedin.com/in/satvik-cherukuri-64299b273)
 
-I enjoy building AI-powered applications, solving real-world problems, and continuously improving my skills in Machine Learning, Deep Learning, and Software Development.
+## Featured Projects
 
----
+- **[Telco Customer Churn MLOps](https://github.com/satvik344/churn-prediction-mlops)** — Customer-churn project covering model training, evaluation, tracking, monitoring, and serving.
+- **[COVID-19 India MLOps](https://github.com/satvik344/COVID19-MLOps)** — Time-ordered case forecasting with reproducible model-training, experiment-tracking, and validation workflows.
+- **[AI Chord Detector](https://github.com/satvik344/AI-chord-detector)** — AI-powered chord detection with audio-analysis, backend, and frontend components. [Software Musician demo](https://softwaremusician.netlify.app/).
+- **[MindCheckin](https://github.com/satvik344/MindCheckin)** — TensorFlow.js stress-analysis web application. [Live demo](https://mindcheckin.netlify.app/).
 
-## 🔬 Current Interests
+## Languages and Tools
 
-- Artificial Intelligence
-- Machine Learning
-- Deep Learning
-- Computer Vision
-- NLP
-- AI Research
-
----
-
-## 🚀 Current Projects
-
-### MindCheck
-AI-powered stress analysis platform
-
-https://mindcheckin.netlify.app/
-
-### Software Musician
-
-AI-powered music transcription platform
-
-https://softwaremusician.netlify.app/
-
----
-
-## 💻 Programming Languages
-
-- Python
-- Java
-- C++
-- JavaScript
-
----
-
-## 🛠 Technologies
-
-- NumPy
-- Pandas
-- Matplotlib
-- TensorFlow
-- TensorFlow.js
-- PyTorch
-- Firebase
-- Git
-- GitHub
-
----
-
-## 📫 Contact
-
-Email
-
-satvik344705@gmail.com
-
-LinkedIn
-
-https://www.linkedin.com/in/satvik-cherukuri-64299b273
+Python · Java · C++ · JavaScript · TensorFlow · TensorFlow.js · PyTorch · MLflow · Docker · Kubernetes
